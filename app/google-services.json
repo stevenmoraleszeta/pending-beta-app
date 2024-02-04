@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "258109877327",
+    "firebase_url": "https://fir-tutorial-acdee-default-rtdb.firebaseio.com",
+    "project_id": "fir-tutorial-acdee",
+    "storage_bucket": "fir-tutorial-acdee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258109877327:android:121d93b202deb895378e3a",
+        "android_client_info": {
+          "package_name": "com.innnova.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258109877327-7deqk5uqdrf2dcm3f6tg6544rqisho0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9ZyLJiShg9OmesORLCXKVzD0PEhXaNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258109877327-7deqk5uqdrf2dcm3f6tg6544rqisho0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258109877327:android:02935bd5aefa795a378e3a",
+        "android_client_info": {
+          "package_name": "com.innnova.pendingbetaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258109877327-7deqk5uqdrf2dcm3f6tg6544rqisho0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9ZyLJiShg9OmesORLCXKVzD0PEhXaNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258109877327-7deqk5uqdrf2dcm3f6tg6544rqisho0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

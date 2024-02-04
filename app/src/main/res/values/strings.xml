@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mis Pedidos</string>
+    <string name="prefs_file">com.innova.pendingbetaapp.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">1:258109877327:android:02935bd5aefa795a378e3a</string>
+    <string name="pedido">Pedido</string>
+    <string name="producto">Producto</string>
+    <string name="cliente">Cliente</string>
+    <string name="fecha_de_encargo">Fecha de encargo</string>
+    <string name="fecha_de_entrega">Fecha de entrega</string>
+    <string name="monto_total">Monto total</string>
+    <string name="monto_pagado">Monto pagado</string>
+    <string name="monto_por_pagar">Monto por pagar</string>
+    <string name="detalle">Detalle</string>
+    <string name="guardar">Guardar</string>
+    <string name="completar">Completar</string>
+    <string name="select_date">Fecha</string>
+    <string name="log_out">Cerrar Sesión</string>
+    <string name="menu_usuario">Menú de usuario</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="men_de_encargo">Menú de encargo</string>
+</resources>
